@@ -1,0 +1,16 @@
+.feedback {
+    background-color: transparent;
+    padding: 5px;
+    border-radius: 5px;
+    text-align: left;
+}
+
+.list {
+    font-size: 20px;
+    list-style-type: none;
+    padding: 0;
+}
+
+.list li {
+    margin-bottom: 5px;
+}
